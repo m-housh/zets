@@ -2,6 +2,8 @@
 
 Repository for `Zettelkasten` notes.
 
+Musings from an HVAC nerd!
+
 This is inspired (stolen)  from `rwxrob`'s method of `Zettelkasten`.  Each note (`zet`) is stored in a directory
 created from the `isosec` of when the `zet` was created.  Each directory contains a `README.md` file and any assets
 required by the file are stored in an `assets` directory.
