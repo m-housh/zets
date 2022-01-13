@@ -1,2 +1,0 @@
-# KwikModel Notes
-
