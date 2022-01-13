@@ -49,12 +49,12 @@ scheduled to be recorded on 1/19/22.
 ## Common system replacement upgrades people miss
 
 1. Airflow (seems like beating a dead horse)
-  1. Start small, implement static pressure testing first.
-  1. TrueFlow grid is a great aid and quick.
-  1. Can the system handle what we're proposing?
-    1. Are we going up or are we going down? Most choose up when down may be
-       the better choice.
-  1. Can near equipment modifications make a big difference?
+    1. Start small, implement static pressure testing first.
+    1. TrueFlow grid is a great aid and quick.
+    1. Can the system handle what we're proposing?
+        1. Are we going up or are we going down? Most choose up when down may be
+           the better choice.
+    1. Can near equipment modifications make a big difference?
 1. Filtration
   1. Include better filtration and making customers decline has worked for us.
   1. How often do you see customers with those "ultra-allergen" filters??
