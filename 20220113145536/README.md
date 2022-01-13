@@ -2,6 +2,8 @@
 
 Notes for conducting multi-fan blower door testing on large structures.
 
+[See full document here](https://github.com/m-housh/zets/tree/main/20220113145536/assets)
+
 ## Setup
 
 1. Only one gauge has a reference to outdoors.
