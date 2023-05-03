@@ -52,7 +52,7 @@ the lower the supply water temperature, but it's obviously a balancing act betwe
 
 Here is an example of upward heat output vs. tubing spacing.
 
-![](https://github.com/m-housh/zets)
+![Upward Heat Output](https://github.com/m-housh/zets/blob/main/20230503081424/assets/Screenshot%202023-05-03%20at%208.12.43%20AM.png)
 
 9. What pipe spacing should I do for basement and garage?
 
